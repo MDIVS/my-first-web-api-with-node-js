@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "username": "MDIVS",
+    "email": "maiconoficialbr@gmail.com",
+    "password": "12345",
+    "profile": "admin",
+    "keepConected": false,
+    "lastIp": "",
+    "lastDevice": "",
+    "evaluatedWorks": 0
+  },
+  { "id": 2, "name": "Chapolin" }
+]
